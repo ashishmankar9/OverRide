@@ -13,9 +13,6 @@ public class FoodMain {
 			m = m / 10;
 			ans += temp*temp*temp;
 			System.out.println(m);
-			
-			
-			
 		}
 		
 		if(ans == n){
