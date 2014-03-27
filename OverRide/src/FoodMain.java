@@ -22,6 +22,7 @@ public class FoodMain {
 		{
 			System.out.println("Not Armstrong");
 			System.out.println("This is new line added");
+			System.out.println("Changes");
 		}
 	}
 }
