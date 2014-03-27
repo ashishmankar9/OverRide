@@ -22,10 +22,6 @@ public class FoodMain {
 		else
 		{
 			System.out.println("Not Armstrong");
-			
-			
-			
-			
 		}
 	}
 }
