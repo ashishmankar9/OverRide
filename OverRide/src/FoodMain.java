@@ -16,13 +16,12 @@ public class FoodMain {
 		}
 		
 		if(ans == n){
-			
 			System.out.println("Armstrong");
 		}
 		else
 		{
 			System.out.println("Not Armstrong");
-			System.out.println("ashish");
+			System.out.println("This is new line added");
 		}
 	}
 }
