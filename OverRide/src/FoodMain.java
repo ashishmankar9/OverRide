@@ -22,6 +22,7 @@ public class FoodMain {
 		else
 		{
 			System.out.println("Not Armstrong");
+			System.out.println("ashish");
 		}
 	}
 }
