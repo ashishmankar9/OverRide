@@ -23,6 +23,9 @@ public class FoodMain {
 		{
 			System.out.println("Not Armstrong");
 			System.out.println("Ohh No!!");
+			
+			
+			
 		}
 	}
 }
